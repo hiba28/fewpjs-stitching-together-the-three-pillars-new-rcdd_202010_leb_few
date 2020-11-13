@@ -5,10 +5,7 @@ let glyphStates = {
   "♥": "♡"
 };
 
-let colorStates = {
-  "red" : "",
-  "": "red"
-};
+
 
 // STEP 1: This code is what lets JavaScript find the elements that we want to make clickable.
 // Without JavaScript, clicking on these heart shapes does nothing. Uncomment
